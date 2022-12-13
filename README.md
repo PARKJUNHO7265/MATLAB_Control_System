@@ -30,3 +30,5 @@
 ![image](https://user-images.githubusercontent.com/87568714/207319167-4cb1d82d-0536-46ba-8f87-86f2c3c8b3e1.png)<br/>
 노란색 선이 태양의 위치 그리고 파란색 점선이 패널의 위치이다. 태양의 위치가 변함에 따라 패널의 위치 또한 이를 추적하여 변하는것을 확인할 수 있었다.
 
+<h3>출처</h3>
+Simulink를 사용한 제어 시스템 모델링 https://www.youtube.com/watch?v=a3gma8V11nU&list=PLH1vM2UZr5n-0pJ3i3w84aAuyD6xilrlu
