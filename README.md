@@ -8,15 +8,15 @@
 
 <h3>패널과 모터의 Equation</h3> 
 
-![스크린샷_20221213_084037](https://user-images.githubusercontent.com/87568714/207310432-024e000a-359c-4d4b-90dd-0f019f04ebb4.png)
+![스크린샷_20221213_084037](https://user-images.githubusercontent.com/87568714/207310432-024e000a-359c-4d4b-90dd-0f019f04ebb4.png)<br/>
 다음은 패널과 모터의 방정식이다. 위 식을 토대로 SIMULINK를 활용하여 제어 모델을 제작해보자.
 
 <h3>패널 모델 제작</h3>
 
-![스크린샷_20221213_085917](https://user-images.githubusercontent.com/87568714/207312289-ddacc9de-3934-4db6-b0e5-ad3fe0381a1a.png)
+![스크린샷_20221213_085917](https://user-images.githubusercontent.com/87568714/207312289-ddacc9de-3934-4db6-b0e5-ad3fe0381a1a.png)<br/>
 여기서 J = 8.6 , Kd = 5로 설정하였다.
 
 <h3>모터 모델 제작</h3>
   
-![스크린샷_20221213_090208](https://user-images.githubusercontent.com/87568714/207312753-b569ef07-fd68-4d43-a938-dbd5cec05e3b.png)
+![스크린샷_20221213_090208](https://user-images.githubusercontent.com/87568714/207312753-b569ef07-fd68-4d43-a938-dbd5cec05e3b.png)<br/>
 여기서 R = 10 , Kg = 2000, Kt = Kf = 0.07 로 설정하였다.
