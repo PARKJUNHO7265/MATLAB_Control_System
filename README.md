@@ -3,6 +3,7 @@
 사용언어 : MATLAB & SIMULINK
 
 <h3>패널과 모터의 Equation</h3> 
+
 ![스크린샷_20221213_084037](https://user-images.githubusercontent.com/87568714/207310432-024e000a-359c-4d4b-90dd-0f019f04ebb4.png)
 다음은 패널과 모터의 방정식이다. 위 식을 토대로 SIMULINK를 활용하여 제어 모델을 제작해보자.
 
