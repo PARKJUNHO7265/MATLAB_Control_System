@@ -20,3 +20,13 @@
   
 ![스크린샷_20221213_090208](https://user-images.githubusercontent.com/87568714/207312753-b569ef07-fd68-4d43-a938-dbd5cec05e3b.png)<br/>
 여기서 R = 10 , Kg = 2000, Kt = Kf = 0.07 로 설정하였다.
+  
+<h3>제어기 모델 제작</h3>  
+  
+![스크린샷_20221213_091755](https://user-images.githubusercontent.com/87568714/207316067-34025e3e-345f-4a40-b681-66ddf0ee5dfa.png)
+대표적인 제어 모델중 하나인 PID 제어기를 사용하여 제작해보았다.
+이때, 태양의 위치는 Step Function으로 설정하였고 태양의 위치에 따른 패널의 위치에 대한 그래프는 아래와 같았다.
+
+![스크린샷_20221213_091714](https://user-images.githubusercontent.com/87568714/207316876-65ceec1e-67ff-4100-8db6-be3439be40a1.png)
+태양의 위치가 변함에 따라 패널의 위치 또한 이를 추적하여 변하는것을 확인할 수 있었다.
+
